@@ -18,7 +18,7 @@ variable "ami" {
 
   default = {
     ap-south-1-ubuntu	  = "ami-08a5e367"
-    us-east-1-ubuntu	  = "ami-d651b8ac"
+    us-east-1-ubuntu	  = "ami-052efd3df9dad4825"
     ap-northeast-1-ubuntu = "ami-8422ebe2"
     eu-west-1-ubuntu	  = "ami-17d11e6e"
     ap-southeast-1-ubuntu = "ami-e6d3a585"
